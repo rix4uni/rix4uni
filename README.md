@@ -1,12 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7FF&size=50&center=true&vCenter=true&width=600&lines=Hello+there!;+I'm+Bhagirath+Saxena">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=23A6C5FF&size=50&center=true&vCenter=true&width=600&lines=Hello+there!;+I%27m+Bhagirath+Saxena">
   &nbsp; <img src="https://media.giphy.com/media/dscTJjpsiVamjIk6nk/giphy.gif" width="50">
 </h1>
 <p align="center">
 <img src="banner.png">
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rix4uni&label=Profile%20views&color=0e75b6&style=flat" alt="rix4uni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rix4uni" alt="rix4uni" /></a> </p>
 
