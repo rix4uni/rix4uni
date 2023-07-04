@@ -11,9 +11,11 @@
 
 - 🔭 I’m currently working on **Custom Nucei Templates**
 
+- My Website **https://pentestingdorks.ml**
+
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me imbhagirathsaxena@gmail.com
+- 📫 How to reach me rix4uni@gmail.com
 
 - ⚡ Fun fact **I am funny**
 
