@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me rix4uni@gmail.com
+- 📫 How to reach me rix4uni+developers@googlemail.com
 
 - ⚡ Fun fact **I am funny**
 
