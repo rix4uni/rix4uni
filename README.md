@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Custom Nucei Templates**
 
-- My Website **https://pentestingdorks.ml**
+- My Website **https://pentestingdorks.netlify.app**
 
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me rix4uni+developers@googlemail.com
+- 📫 How to reach me rix4uni@gmail.com
 
 - ⚡ Fun fact **I am funny**
 
