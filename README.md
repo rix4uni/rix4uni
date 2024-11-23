@@ -20,6 +20,12 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 
+## Donation:
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal&logoColor=white)](https://www.paypal.me/rix4uni)
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-orange?logo=kofi&logoColor=white)](https://ko-fi.com/rix4uni)
+<!-- [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/rix4uni) -->
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
