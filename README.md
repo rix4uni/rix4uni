@@ -27,5 +27,5 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Bhagirath Saxena's GitHub stats](https://github-readme-stats-phi-swart-13.vercel.app/api?username=rix4uni&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats-phi-swart-13.vercel.app/api/top-langs/?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
