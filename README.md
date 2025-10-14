@@ -8,7 +8,7 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://rix4uniblogs.pages.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rix4uni@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/VGybk6BwAZ)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@KrazePlanet0)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@KrazePlanetSecurity)
 
 ## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
@@ -29,5 +29,6 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 ## 📊 GitHub Stats:
 ![Bhagirath Saxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rix4uni&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rix4uni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+
 
 
