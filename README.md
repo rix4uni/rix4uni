@@ -9,16 +9,7 @@
 
 ## 💫 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rix4uni&color=00ADB5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rix4uni?color=00ADB5&style=for-the-badge&label=FOLLOWERS&labelColor=1a1a2e" alt="Followers"/>
-</p>
-
 I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy building custom tools for penetration testing and exploring the capabilities of Golang.
-
-- 📝 **Portfolio:** [portfolio.krazeplanet.com](https://portfolio.krazeplanet.com)
-- ▶️ **YouTube:** [@KrazePlanetSecurity](https://www.youtube.com/@KrazePlanetSecurity)
-
 
 ## ⚙️ Tech Stack
 <p align="left">
@@ -36,28 +27,23 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:rix4uni@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
-  <a href="https://twitter.com/rix4uni"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/rix4uni"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  <a href="https://discord.krazeplanet.com"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/></a>
+  <a href="mailto:contact@krazeplanet.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" align="middle"/></a>
+  <a href="https://twitter.com/rix4uni"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" align="middle"/></a>
+  <a href="https://www.linkedin.com/in/rix4uni"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" align="middle"/></a>
+  <a href="https://discord.krazeplanet.com"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" align="middle"/></a>
+  <a href="https://portfolio.krazeplanet.com"><img src="https://github.com/user-attachments/assets/6dcbcaf5-0e62-4892-8a3f-2321bfa7d43e" height="40" alt="Portfolio" align="middle"/></a>
+  <a href="https://www.youtube.com/@KrazePlanetSecurity"><img src="https://github.com/user-attachments/assets/cfb9922b-7e4e-4c8f-a8e8-33959a69d6f1" height="40" alt="YouTube" align="middle"/></a>
 </p>
 
 
-## Support me
-<a href="https://www.paypal.me/rix4uni" target="_blank"><img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/></a>
-<a href="https://www.patreon.com/rix4uni" target="_blank"><img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/></a>
-<a href="https://www.buymeacoffee.com/rix4uni" target="_blank"><img width="18%" alt="Buy Me a Coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/></a>
-<!-- <a href="https://ko-fi.com/rix4uni" target="_blank"><img width="18%" alt="Support me on Ko-fi" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/></a> -->
-
-
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=rix4uni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" width="54%"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rix4uni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="41%"/>
 </div>
 
 
-<div align="center">
+<div align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,100:0f2027&height=120&section=footer" width="100%"/>
 
 **⭐ If any of my tools helped you, drop a star — it genuinely makes my day.**
