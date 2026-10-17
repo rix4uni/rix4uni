@@ -1,9 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00adb5&height=220&section=header&text=Bhagirath%20Saxena&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20•%20Developer%20•%20Open-Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Breaking+things+so+you+don't+have+to+%F0%9F%94%A8;Building+custom+pentest+tools+in+Go+%F0%9F%9A%80;Open-source+%2B+security+research+%3D+%E2%9D%A4%EF%B8%8F;Welcome+to+my+corner+of+the+internet+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
 </div>
 
 
@@ -41,10 +37,4 @@ I'm Bhagirath Saxena, an open-source enthusiast and security researcher. I enjoy
 <img src="https://github-readme-stats-fast.vercel.app/api?username=rix4uni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" width="54%"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rix4uni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="41%"/>
 </div>
-
-
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,100:0f2027&height=120&section=footer" width="100%"/>
-
-**⭐ If any of my tools helped you, drop a star — it genuinely makes my day.**
 </div>
